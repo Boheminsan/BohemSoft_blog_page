@@ -1,0 +1,1 @@
+<html><head><link rel="stylesheet" href="css/style.css" type="text/css" media="screen"><link rel="stylesheet" href="css/flat-ui.css" type="text/css" media="screen"><style type="text/css"></style></head><body><div id="ust">include(menu2.php);<div id="orta">a4ertgyhj</br>ertyhujıkjefrghj</div></body></html>
